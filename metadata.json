@@ -1,0 +1,6 @@
+{
+  "name": "Custom AI Workflow | The Brager Schaub Team",
+  "description": "A custom-built AI Receptionist workflow for Susan Brager and The Brager Schaub Team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
